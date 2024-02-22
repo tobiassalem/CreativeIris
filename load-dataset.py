@@ -1,6 +1,6 @@
 # === [Load libraries] ===
 from pandas import read_csv
-from matplotlib import pyplot as plts
+from matplotlib import pyplot as plt
 
 # === [Load the dataset] ===
 url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv"
